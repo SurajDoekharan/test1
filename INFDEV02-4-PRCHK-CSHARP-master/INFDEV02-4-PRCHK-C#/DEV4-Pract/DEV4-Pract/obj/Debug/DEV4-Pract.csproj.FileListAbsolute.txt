@@ -1,0 +1,19 @@
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\VS2015-C#-PracticumCheckDEV4\DEV4-Pract\DEV4-Pract\bin\Debug\DEV4-Pract.exe.config
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\VS2015-C#-PracticumCheckDEV4\DEV4-Pract\DEV4-Pract\bin\Debug\DEV4-Pract.exe
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\VS2015-C#-PracticumCheckDEV4\DEV4-Pract\DEV4-Pract\bin\Debug\DEV4-Pract.pdb
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\VS2015-C#-PracticumCheckDEV4\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.csprojResolveAssemblyReference.cache
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\VS2015-C#-PracticumCheckDEV4\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.exe
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\VS2015-C#-PracticumCheckDEV4\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.pdb
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#-COMPLETE\DEV4-Pract\DEV4-Pract\bin\Debug\DEV4-Pract.exe.config
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#-COMPLETE\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.exe
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#-COMPLETE\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.pdb
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#\DEV4-Pract\DEV4-Pract\bin\Debug\DEV4-Pract.exe.config
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.exe
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.pdb
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#-COMPLETE - Copy\DEV4-Pract\DEV4-Pract\bin\Debug\DEV4-Pract.exe.config
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#-COMPLETE - Copy\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.exe
+C:\Users\mabba\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-4 prchk\2016-2017\First\INFDEV02-4-PRCHK-C#-COMPLETE - Copy\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.pdb
+C:\Users\suraj\Desktop\INFDEV02-4-PRCHK-CSHARP-master\INFDEV02-4-PRCHK-C#\DEV4-Pract\DEV4-Pract\bin\Debug\DEV4-Pract.exe.config
+C:\Users\suraj\Desktop\INFDEV02-4-PRCHK-CSHARP-master\INFDEV02-4-PRCHK-C#\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.exe
+C:\Users\suraj\Desktop\INFDEV02-4-PRCHK-CSHARP-master\INFDEV02-4-PRCHK-C#\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.pdb
+C:\Users\suraj\Desktop\INFDEV02-4-PRCHK-CSHARP-master\INFDEV02-4-PRCHK-C#\DEV4-Pract\DEV4-Pract\obj\Debug\DEV4-Pract.csprojResolveAssemblyReference.cache
